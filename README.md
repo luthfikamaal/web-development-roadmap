@@ -1,60 +1,105 @@
-# Resource Web Development Learning
+# Web Development Learning Roadmap
 
-## Roadmap Web Development
+> _Dalam pengembangan_
 
-- [Internet dan HTTP]()
-- [HTML Dasar]()
-- [HTML 5]()
-- [CSS Dasar]()
-- [CSS Layouting]()
-- [CSS 3]()
-- [CSS Frameworks]()
-- [Git]()
-- [JavaScript Dasar]()
+## Apa itu Web?
 
-### Frontend
+Website adalah kumpulan halaman yang berisi informasi tertentu dan dapat diakses dengan mudah oleh siapapun, kapanpun, dan di manapun melalui internet yang diakses dengan menuliskan URL di web browser. _https://www.niagahoster.co.id/blog/pengertian-website/_
 
-- [JavaScript DOM]()
-- [CSS Pre-processor]()
-- [Modern JavaScript]()
-- [API]()
-- [Package Manager]()
-- [Frontend Framework]()
+## Web Developer
 
-### Backend
+### Front End
 
-- [Choose Languague]()
-  - [PHP]()
-    - [PHP Dasar]()
-    - [PHP OOP]()
-    - [PHP MVC]()
-    - [PHP Framework]()
-      - [Codeigniter]()
-      - [Laravel]()
-  - [JavaScript]()
-    - [Modern JavaScript]()
-    - [NodeJS]()
-- [Database]()
-- [API]()
+- HTML
+- CSS
+- CSS Framework
+- CSS Pre-pocessor
+- Modern CSS
+- Modern JavaScript
+- Framework JavaScript
+  - Vue
+  - React
+  - Angular
+  - dsb
+- API Request
+- GraphQL
+- dll
 
-## HTTP
+### Back End
 
-- [HTTP dari Programmer Zaman Now](https://www.youtube.com/watch?v=92Rjzrq4oIg)
+- Basic Front End
+- Pilih Bahasa Pemrograman
+  - PHP
+  - Python
+  - Go
+  - JavaScript
+  - Java
+  - dll
+- Pilih Framework
+  - Laravel
+  - Django
+  - Gin
+  - Node
+  - Spring
+  - dll
+- Relational Databases
+  - MySQL
+  - PostgreSQL
+  - SQLite
+- NoSQL Databases
+  - MongoDB
+  - RethinkDB
+  - dll
+- RestAPI
+- GrapQL
+- Caching
+- dll
 
-## HTML
+## Alur Belajar
 
-- [Web Programming UNPAS](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F)
-- [W3School](https://www.w3schools.com/html/)
+- [Jalur Belajar Web Development by Sandhika Galih](https://coggle.it/diagram/YA5j5BfeOvNuaqYu/t/jalur-belajar-web-development-2022-untuk-pemula)
 
-## CSS
+## Proyek Akhir
 
-- [W3School](https://www.w3schools.com/css/)
-- [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p)
-- [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIUu4Ju9GUL5zpLcuq08TKYr)
-- [CSS 3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa)
+Note Bersifat tidak wajib
 
-## JavaScript
+### Front End
 
-- [Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w)
-- [DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3)
-- [Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-)
+| Essentials        |
+| ----------------- |
+| HTML              |
+| CSS/CSS Framework |
+| JavaScript        |
+| Responsive Design |
+
+| Expert                                          |
+| ----------------------------------------------- |
+| Javascript Framework (Vue, React, Angular, dll) |
+| API Request (REST / GraphQL)                    |
+| Menggunakan CSS Pre-procesor                    |
+
+### Back End
+
+| Essentials                           |
+| ------------------------------------ |
+| Choose backend Language or Framework |
+| Simple Restful API with CRUD         |
+| Relational Database or NoSQL         |
+
+| Expert                 |
+| ---------------------- |
+| Essentials requirement |
+| Authentication         |
+| Caching (Redis)        |
+| High Performance API   |
+
+## Teknis Pengumpulan
+
+- Push project ke github.com
+- Mencantumkan tutorial instalasi sampai pengembangannya di README.md dan harus mudah dipahami Reviewer
+- Isi formulir (menyusul)
+
+## Tools
+
+- Text Editor: [VS Code](https://code.visualstudio.com/download), [Sublime Text](https://www.sublimetext.com/3), [Notepad++](https://notepad-plus-plus.org/downloads/), etc
+- Web Browser: Chrome, Firefox
