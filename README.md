@@ -65,14 +65,14 @@ Note Bersifat tidak wajib
 
 ### Front End
 
-| Essentials        |
+| Basic        |
 | ----------------- |
 | HTML              |
 | CSS/CSS Framework |
 | JavaScript        |
 | Responsive Design |
 
-| Expert                                          |
+| Essentials                                          |
 | ----------------------------------------------- |
 | Javascript Framework (Vue, React, Angular, dll) |
 | API Request (REST / GraphQL)                    |
@@ -80,15 +80,15 @@ Note Bersifat tidak wajib
 
 ### Back End
 
-| Essentials                           |
+| Basic                           |
 | ------------------------------------ |
 | Choose backend Language or Framework |
 | Simple Restful API with CRUD         |
 | Relational Database or NoSQL         |
 
-| Expert                 |
+| Essentials                 |
 | ---------------------- |
-| Essentials requirement |
+| Basic requirement |
 | Authentication         |
 | Caching (Redis)        |
 | High Performance API   |
